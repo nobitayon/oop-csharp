@@ -1,0 +1,14 @@
+E:\dotnet-learn\oop-basics\OOP-Basics\bin\Debug\net8.0\OOP-Basics.exe
+E:\dotnet-learn\oop-basics\OOP-Basics\bin\Debug\net8.0\OOP-Basics.deps.json
+E:\dotnet-learn\oop-basics\OOP-Basics\bin\Debug\net8.0\OOP-Basics.runtimeconfig.json
+E:\dotnet-learn\oop-basics\OOP-Basics\bin\Debug\net8.0\OOP-Basics.dll
+E:\dotnet-learn\oop-basics\OOP-Basics\bin\Debug\net8.0\OOP-Basics.pdb
+E:\dotnet-learn\oop-basics\OOP-Basics\obj\Debug\net8.0\OOP-Basics.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet-learn\oop-basics\OOP-Basics\obj\Debug\net8.0\OOP-Basics.AssemblyInfoInputs.cache
+E:\dotnet-learn\oop-basics\OOP-Basics\obj\Debug\net8.0\OOP-Basics.AssemblyInfo.cs
+E:\dotnet-learn\oop-basics\OOP-Basics\obj\Debug\net8.0\OOP-Basics.csproj.CoreCompileInputs.cache
+E:\dotnet-learn\oop-basics\OOP-Basics\obj\Debug\net8.0\OOP-Basics.dll
+E:\dotnet-learn\oop-basics\OOP-Basics\obj\Debug\net8.0\refint\OOP-Basics.dll
+E:\dotnet-learn\oop-basics\OOP-Basics\obj\Debug\net8.0\OOP-Basics.pdb
+E:\dotnet-learn\oop-basics\OOP-Basics\obj\Debug\net8.0\OOP-Basics.genruntimeconfig.cache
+E:\dotnet-learn\oop-basics\OOP-Basics\obj\Debug\net8.0\ref\OOP-Basics.dll

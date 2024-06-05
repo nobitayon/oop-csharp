@@ -1,0 +1,11 @@
+e:\dotnet-learn\oop-basics\OfficeBuildingAutomationAPI\bin\Debug\net8.0\OfficeBuildingAutomationAPI.deps.json
+e:\dotnet-learn\oop-basics\OfficeBuildingAutomationAPI\bin\Debug\net8.0\OfficeBuildingAutomationAPI.dll
+e:\dotnet-learn\oop-basics\OfficeBuildingAutomationAPI\bin\Debug\net8.0\OfficeBuildingAutomationAPI.pdb
+e:\dotnet-learn\oop-basics\OfficeBuildingAutomationAPI\obj\Debug\net8.0\OfficeBuildingAutomationAPI.GeneratedMSBuildEditorConfig.editorconfig
+e:\dotnet-learn\oop-basics\OfficeBuildingAutomationAPI\obj\Debug\net8.0\OfficeBuildingAutomationAPI.AssemblyInfoInputs.cache
+e:\dotnet-learn\oop-basics\OfficeBuildingAutomationAPI\obj\Debug\net8.0\OfficeBuildingAutomationAPI.AssemblyInfo.cs
+e:\dotnet-learn\oop-basics\OfficeBuildingAutomationAPI\obj\Debug\net8.0\OfficeBuildingAutomationAPI.csproj.CoreCompileInputs.cache
+e:\dotnet-learn\oop-basics\OfficeBuildingAutomationAPI\obj\Debug\net8.0\OfficeBuildingAutomationAPI.dll
+e:\dotnet-learn\oop-basics\OfficeBuildingAutomationAPI\obj\Debug\net8.0\refint\OfficeBuildingAutomationAPI.dll
+e:\dotnet-learn\oop-basics\OfficeBuildingAutomationAPI\obj\Debug\net8.0\OfficeBuildingAutomationAPI.pdb
+e:\dotnet-learn\oop-basics\OfficeBuildingAutomationAPI\obj\Debug\net8.0\ref\OfficeBuildingAutomationAPI.dll
