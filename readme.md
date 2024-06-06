@@ -19,3 +19,13 @@ Online Store Inheritance Hierarchy picture(Screeenshot from the video: [link](ht
 # Shape(polymorphism, one interface many form)
 Project related to this tutorial
 - Shapes
+
+# Construction Company(Interface Tutorial)
+Project related to this tutorial
+- InterfaceTutorial
+
+## Some Point:
+- Abstracting `Employee` class
+- Abstracting `Manager` class
+- Abstracting `ChiefExecutiveOfficer` class
+- 

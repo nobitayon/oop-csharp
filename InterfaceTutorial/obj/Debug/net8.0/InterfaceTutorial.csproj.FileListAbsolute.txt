@@ -1,0 +1,15 @@
+E:\dotnet-learn\oop-basics\InterfaceTutorial\bin\Debug\net8.0\InterfaceTutorial.exe
+E:\dotnet-learn\oop-basics\InterfaceTutorial\bin\Debug\net8.0\InterfaceTutorial.deps.json
+E:\dotnet-learn\oop-basics\InterfaceTutorial\bin\Debug\net8.0\InterfaceTutorial.runtimeconfig.json
+E:\dotnet-learn\oop-basics\InterfaceTutorial\bin\Debug\net8.0\InterfaceTutorial.dll
+E:\dotnet-learn\oop-basics\InterfaceTutorial\bin\Debug\net8.0\InterfaceTutorial.pdb
+E:\dotnet-learn\oop-basics\InterfaceTutorial\obj\Debug\net8.0\InterfaceTutorial.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet-learn\oop-basics\InterfaceTutorial\obj\Debug\net8.0\InterfaceTutorial.AssemblyInfoInputs.cache
+E:\dotnet-learn\oop-basics\InterfaceTutorial\obj\Debug\net8.0\InterfaceTutorial.AssemblyInfo.cs
+E:\dotnet-learn\oop-basics\InterfaceTutorial\obj\Debug\net8.0\InterfaceTutorial.csproj.CoreCompileInputs.cache
+E:\dotnet-learn\oop-basics\InterfaceTutorial\obj\Debug\net8.0\InterfaceTutorial.sourcelink.json
+E:\dotnet-learn\oop-basics\InterfaceTutorial\obj\Debug\net8.0\InterfaceTutorial.dll
+E:\dotnet-learn\oop-basics\InterfaceTutorial\obj\Debug\net8.0\refint\InterfaceTutorial.dll
+E:\dotnet-learn\oop-basics\InterfaceTutorial\obj\Debug\net8.0\InterfaceTutorial.pdb
+E:\dotnet-learn\oop-basics\InterfaceTutorial\obj\Debug\net8.0\InterfaceTutorial.genruntimeconfig.cache
+E:\dotnet-learn\oop-basics\InterfaceTutorial\obj\Debug\net8.0\ref\InterfaceTutorial.dll
