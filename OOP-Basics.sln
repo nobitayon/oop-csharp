@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfficeBuildingAutomation", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfficeBuildingAutomationAPI", "OfficeBuildingAutomationAPI\OfficeBuildingAutomationAPI.csproj", "{489FF4BC-2430-4BFF-987E-3D2DC4ACE4D7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpInheritanceExample", "CSharpInheritanceExample\CSharpInheritanceExample.csproj", "{8367D0A4-8BE4-44B3-AEAA-4D56023B08E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{489FF4BC-2430-4BFF-987E-3D2DC4ACE4D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{489FF4BC-2430-4BFF-987E-3D2DC4ACE4D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{489FF4BC-2430-4BFF-987E-3D2DC4ACE4D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8367D0A4-8BE4-44B3-AEAA-4D56023B08E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8367D0A4-8BE4-44B3-AEAA-4D56023B08E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8367D0A4-8BE4-44B3-AEAA-4D56023B08E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8367D0A4-8BE4-44B3-AEAA-4D56023B08E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

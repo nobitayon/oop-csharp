@@ -1,0 +1,15 @@
+E:\dotnet-learn\oop-basics\CSharpInheritanceExample\bin\Debug\net8.0\CSharpInheritanceExample.exe
+E:\dotnet-learn\oop-basics\CSharpInheritanceExample\bin\Debug\net8.0\CSharpInheritanceExample.deps.json
+E:\dotnet-learn\oop-basics\CSharpInheritanceExample\bin\Debug\net8.0\CSharpInheritanceExample.runtimeconfig.json
+E:\dotnet-learn\oop-basics\CSharpInheritanceExample\bin\Debug\net8.0\CSharpInheritanceExample.dll
+E:\dotnet-learn\oop-basics\CSharpInheritanceExample\bin\Debug\net8.0\CSharpInheritanceExample.pdb
+E:\dotnet-learn\oop-basics\CSharpInheritanceExample\obj\Debug\net8.0\CSharpInheritanceExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet-learn\oop-basics\CSharpInheritanceExample\obj\Debug\net8.0\CSharpInheritanceExample.AssemblyInfoInputs.cache
+E:\dotnet-learn\oop-basics\CSharpInheritanceExample\obj\Debug\net8.0\CSharpInheritanceExample.AssemblyInfo.cs
+E:\dotnet-learn\oop-basics\CSharpInheritanceExample\obj\Debug\net8.0\CSharpInheritanceExample.csproj.CoreCompileInputs.cache
+E:\dotnet-learn\oop-basics\CSharpInheritanceExample\obj\Debug\net8.0\CSharpInheritanceExample.sourcelink.json
+E:\dotnet-learn\oop-basics\CSharpInheritanceExample\obj\Debug\net8.0\CSharpInheritanceExample.dll
+E:\dotnet-learn\oop-basics\CSharpInheritanceExample\obj\Debug\net8.0\refint\CSharpInheritanceExample.dll
+E:\dotnet-learn\oop-basics\CSharpInheritanceExample\obj\Debug\net8.0\CSharpInheritanceExample.pdb
+E:\dotnet-learn\oop-basics\CSharpInheritanceExample\obj\Debug\net8.0\CSharpInheritanceExample.genruntimeconfig.cache
+E:\dotnet-learn\oop-basics\CSharpInheritanceExample\obj\Debug\net8.0\ref\CSharpInheritanceExample.dll
