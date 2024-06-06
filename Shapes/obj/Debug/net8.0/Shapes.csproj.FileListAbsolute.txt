@@ -1,0 +1,15 @@
+E:\dotnet-learn\oop-basics\Shapes\bin\Debug\net8.0\Shapes.exe
+E:\dotnet-learn\oop-basics\Shapes\bin\Debug\net8.0\Shapes.deps.json
+E:\dotnet-learn\oop-basics\Shapes\bin\Debug\net8.0\Shapes.runtimeconfig.json
+E:\dotnet-learn\oop-basics\Shapes\bin\Debug\net8.0\Shapes.dll
+E:\dotnet-learn\oop-basics\Shapes\bin\Debug\net8.0\Shapes.pdb
+E:\dotnet-learn\oop-basics\Shapes\obj\Debug\net8.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet-learn\oop-basics\Shapes\obj\Debug\net8.0\Shapes.AssemblyInfoInputs.cache
+E:\dotnet-learn\oop-basics\Shapes\obj\Debug\net8.0\Shapes.AssemblyInfo.cs
+E:\dotnet-learn\oop-basics\Shapes\obj\Debug\net8.0\Shapes.csproj.CoreCompileInputs.cache
+E:\dotnet-learn\oop-basics\Shapes\obj\Debug\net8.0\Shapes.sourcelink.json
+E:\dotnet-learn\oop-basics\Shapes\obj\Debug\net8.0\Shapes.dll
+E:\dotnet-learn\oop-basics\Shapes\obj\Debug\net8.0\refint\Shapes.dll
+E:\dotnet-learn\oop-basics\Shapes\obj\Debug\net8.0\Shapes.pdb
+E:\dotnet-learn\oop-basics\Shapes\obj\Debug\net8.0\Shapes.genruntimeconfig.cache
+E:\dotnet-learn\oop-basics\Shapes\obj\Debug\net8.0\ref\Shapes.dll
