@@ -27,10 +27,15 @@ class Program
         droneStandard.Add();
         droneStandard.Add();
 
-        Product[] products = new Product[3];
-        products[0] = desk;
-        products[1] = droneStandard;
-        products[2] = droneTurbo;
+        // Product[] products = new Product[3];
+        // products[0] = desk;
+        // products[1] = droneStandard;
+        // products[2] = droneTurbo;
+
+        IList<Product> products = new List<Product>();
+        products.Add(desk);
+        products.Add(droneStandard);
+        products.Add(droneTurbo);
 
         Console.WriteLine();
         Console.WriteLine("Stock Inventory Report");
