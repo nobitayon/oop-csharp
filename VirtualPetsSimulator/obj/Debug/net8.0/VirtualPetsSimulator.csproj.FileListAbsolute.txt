@@ -1,0 +1,15 @@
+E:\dotnet-learn\oop-basics\VirtualPetsSimulator\bin\Debug\net8.0\VirtualPetsSimulator.exe
+E:\dotnet-learn\oop-basics\VirtualPetsSimulator\bin\Debug\net8.0\VirtualPetsSimulator.deps.json
+E:\dotnet-learn\oop-basics\VirtualPetsSimulator\bin\Debug\net8.0\VirtualPetsSimulator.runtimeconfig.json
+E:\dotnet-learn\oop-basics\VirtualPetsSimulator\bin\Debug\net8.0\VirtualPetsSimulator.dll
+E:\dotnet-learn\oop-basics\VirtualPetsSimulator\bin\Debug\net8.0\VirtualPetsSimulator.pdb
+E:\dotnet-learn\oop-basics\VirtualPetsSimulator\obj\Debug\net8.0\VirtualPetsSimulator.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet-learn\oop-basics\VirtualPetsSimulator\obj\Debug\net8.0\VirtualPetsSimulator.AssemblyInfoInputs.cache
+E:\dotnet-learn\oop-basics\VirtualPetsSimulator\obj\Debug\net8.0\VirtualPetsSimulator.AssemblyInfo.cs
+E:\dotnet-learn\oop-basics\VirtualPetsSimulator\obj\Debug\net8.0\VirtualPetsSimulator.csproj.CoreCompileInputs.cache
+E:\dotnet-learn\oop-basics\VirtualPetsSimulator\obj\Debug\net8.0\VirtualPetsSimulator.sourcelink.json
+E:\dotnet-learn\oop-basics\VirtualPetsSimulator\obj\Debug\net8.0\VirtualPetsSimulator.dll
+E:\dotnet-learn\oop-basics\VirtualPetsSimulator\obj\Debug\net8.0\refint\VirtualPetsSimulator.dll
+E:\dotnet-learn\oop-basics\VirtualPetsSimulator\obj\Debug\net8.0\VirtualPetsSimulator.pdb
+E:\dotnet-learn\oop-basics\VirtualPetsSimulator\obj\Debug\net8.0\VirtualPetsSimulator.genruntimeconfig.cache
+E:\dotnet-learn\oop-basics\VirtualPetsSimulator\obj\Debug\net8.0\ref\VirtualPetsSimulator.dll

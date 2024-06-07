@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OfficeBuildingAutomation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+feda34f2efaf3cd8186c0b5df0acea173c45899d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1cacd9f09614be4881c7753334e3854724c7105d")]
 [assembly: System.Reflection.AssemblyProductAttribute("OfficeBuildingAutomation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OfficeBuildingAutomation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

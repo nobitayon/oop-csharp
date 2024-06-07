@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceTutorial", "InterfaceTutorial\InterfaceTutorial.csproj", "{6CACDEAA-0669-4A67-A235-43EEC460E73A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualPetsSimulator", "VirtualPetsSimulator\VirtualPetsSimulator.csproj", "{2FDCE7A3-1974-4DDC-BDB4-2DCDBB2CCB37}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{6CACDEAA-0669-4A67-A235-43EEC460E73A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CACDEAA-0669-4A67-A235-43EEC460E73A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CACDEAA-0669-4A67-A235-43EEC460E73A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FDCE7A3-1974-4DDC-BDB4-2DCDBB2CCB37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FDCE7A3-1974-4DDC-BDB4-2DCDBB2CCB37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FDCE7A3-1974-4DDC-BDB4-2DCDBB2CCB37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FDCE7A3-1974-4DDC-BDB4-2DCDBB2CCB37}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
